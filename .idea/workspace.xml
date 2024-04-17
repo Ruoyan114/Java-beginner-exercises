@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="exercise01">
-      <change afterPath="$PROJECT_DIR$/src/exercise02/VariableTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise03/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise03/OddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise03/SwitchStatementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise04/SumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise05/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise05/StringExample01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise05/StringExample02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise05/StringExample03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise05/StringExample04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise05/StringExample05.java" afterDir="false" />
+    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="exercise01-05">
+      <change afterPath="$PROJECT_DIR$/src/exercise06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise06/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise07/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise08/FileReadExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713381809423</updated>
       <workItem from="1713381810426" duration="1261000" />
-      <workItem from="1713383084191" duration="2937000" />
+      <workItem from="1713383084191" duration="5389000" />
     </task>
     <task id="LOCAL-00001" summary="exercise01">
       <option name="closed" value="true" />
@@ -80,7 +72,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713382896600</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercise01-05">
+      <option name="closed" value="true" />
+      <created>1713386137577</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713386137577</updated>
+    </task>
+    <task id="LOCAL-00003" summary="exercise01-05">
+      <option name="closed" value="true" />
+      <created>1713386245568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713386245568</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,17 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercise01" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise01" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/exercise05/ArrayExample.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="exercise01-05" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise01-05" />
   </component>
 </project>
