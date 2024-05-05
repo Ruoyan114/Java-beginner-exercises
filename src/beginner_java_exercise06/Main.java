@@ -1,4 +1,4 @@
-package exercise06;
+package beginner_java_exercise06;
 
 // 主类，用于创建对象并测试
 public class Main {

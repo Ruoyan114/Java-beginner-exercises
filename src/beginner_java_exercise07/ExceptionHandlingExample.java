@@ -1,4 +1,4 @@
-package exercise07;
+package beginner_java_exercise07;
 
 /*
 在Java中，异常处理是程序设计中非常重要的部分，它允许我们在运行时检测和处理错误情况。

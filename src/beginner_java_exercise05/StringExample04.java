@@ -1,4 +1,4 @@
-package exercise05;
+package beginner_java_exercise05;
 
 //字符串替换：使用String类的replace或replaceAll方法。
 public class StringExample04 {

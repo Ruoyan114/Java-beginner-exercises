@@ -1,4 +1,4 @@
-package exercise05;
+package beginner_java_exercise05;
 
 //使用replaceAll可以进行基于正则表达式的替换：
 public class StringExample05 {

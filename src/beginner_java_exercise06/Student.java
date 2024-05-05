@@ -1,4 +1,4 @@
-package exercise06;
+package beginner_java_exercise06;
 /*
 好的，面向对象编程是一种编程范式，它使用“对象”来设计应用程序和软件。
 对象通常包含数据（属性）和代码（方法），用于操作这些数据。

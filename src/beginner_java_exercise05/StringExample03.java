@@ -1,4 +1,4 @@
-package exercise05;
+package beginner_java_exercise05;
 
 //字符串分割：使用String类的split方法。
 public class StringExample03 {

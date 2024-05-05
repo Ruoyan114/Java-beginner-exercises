@@ -1,4 +1,4 @@
-package exercise02;/*
+package beginner_java_exercise02;/*
 下面是一个Java代码示例，该示例声明了不同类型的变量（int, double, char, boolean），
 并对它们进行了赋值和运算：
  */

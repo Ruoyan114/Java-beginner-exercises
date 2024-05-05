@@ -1,4 +1,4 @@
-package advance_exercise1;
+package advanced_java_exercise01;
 
 import java.util.Timer;
 import java.util.TimerTask;

@@ -1,4 +1,4 @@
-package exercise08;
+package beginner_java_exercise08;
 
 /*
 在Java中，文件读写操作通常涉及到使用java.io包中的类。以下是一个简单的例子，

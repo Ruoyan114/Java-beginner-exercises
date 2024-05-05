@@ -1,4 +1,4 @@
-package exercise05;
+package beginner_java_exercise05;
 
 //查找数组中的最小值：同样通过遍历数组比较每个元素。
 public class ArrayExample03 {

@@ -1,4 +1,4 @@
-package exercise05;
+package beginner_java_exercise05;
 
 //使用StringBuilder进行大量字符串拼接时更高效：
 public class StringExample02 {

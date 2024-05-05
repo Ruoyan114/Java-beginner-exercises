@@ -1,4 +1,4 @@
-package exercise04;
+package beginner_java_exercise04;
 
 /*
 在Java中，我们可以定义自己的方法来接受参数并返回值。下面是一个计算两个整数之和的简单例子：

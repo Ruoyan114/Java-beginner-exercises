@@ -1,4 +1,4 @@
-package exercise05;
+package beginner_java_exercise05;
 
 //以下是Java中数组和字符串操作的示例代码：
 //数组操作：

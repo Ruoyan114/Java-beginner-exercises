@@ -1,4 +1,4 @@
-package exercise05;
+package beginner_java_exercise05;
 
 /*字符串操作：
 字符串拼接：使用+操作符或StringBuilder类

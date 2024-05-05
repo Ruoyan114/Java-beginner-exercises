@@ -1,4 +1,4 @@
-package exercise01;
+package beginner_java_exercise01;
 
 /*下面是一个简单的Java程序，它将输出“Hello, World!”到控制台。
 这是学习Java的经典入门程序。
