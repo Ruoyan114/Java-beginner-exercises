@@ -42,7 +42,7 @@ public class TimerHolder {
 
     public static void main(String[] args) {
         TimerHolder holder = new TimerHolder();
-        holder.startTimer(5, () -> System.out.println("Performiing a task every 5 seconds."));
+        holder.startTimer(5, () -> System.out.println("Performing a task every 5 seconds."));
 
         // 让主线程休眠一段时间以便观察计时器效果
         try {
