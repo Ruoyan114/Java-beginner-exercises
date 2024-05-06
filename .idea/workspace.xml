@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="advance ex2">
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise03/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise04/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise05/SimpleStateMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise05/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise06/MyService.java" afterDir="false" />
+    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="advance ex6">
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise07/AnnotationExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise07/Execute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise07/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise08/DivideByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise08/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise09/InvalidOperationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise09/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise01/TimerHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_exercise01/TimerHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise02/OuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_exercise02/OuterClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +24,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -113,7 +115,7 @@
       <workItem from="1714495306513" duration="9730000" />
       <workItem from="1714621526792" duration="3548000" />
       <workItem from="1714882050044" duration="2242000" />
-      <workItem from="1714932629751" duration="11047000" />
+      <workItem from="1714932629751" duration="17870000" />
     </task>
     <task id="LOCAL-00001" summary="exercise01">
       <option name="closed" value="true" />
@@ -163,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714933843635</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="advance ex6">
+      <option name="closed" value="true" />
+      <created>1714950694080</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714950694080</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +185,7 @@
     <MESSAGE value="exercise01-08" />
     <MESSAGE value="advance ex1" />
     <MESSAGE value="advance ex2" />
-    <option name="LAST_COMMIT_MESSAGE" value="advance ex2" />
+    <MESSAGE value="advance ex6" />
+    <option name="LAST_COMMIT_MESSAGE" value="advance ex6" />
   </component>
 </project>
