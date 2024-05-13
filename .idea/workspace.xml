@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="advance ex6">
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise07/AnnotationExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise07/Execute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise07/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise08/DivideByZeroException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise08/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise09/InvalidOperationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise09/Main.java" afterDir="false" />
+    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="advance ex9">
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exit/ThreadExit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threaduse/Thread02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threaduse/Thread03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ticket/SellTicket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +113,8 @@
       <workItem from="1714495306513" duration="9730000" />
       <workItem from="1714621526792" duration="3548000" />
       <workItem from="1714882050044" duration="2242000" />
-      <workItem from="1714932629751" duration="17870000" />
+      <workItem from="1714932629751" duration="25671000" />
+      <workItem from="1715319671646" duration="2283000" />
     </task>
     <task id="LOCAL-00001" summary="exercise01">
       <option name="closed" value="true" />
@@ -173,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714950694080</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="advance ex9">
+      <option name="closed" value="true" />
+      <created>1714969544062</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714969544062</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +193,7 @@
     <MESSAGE value="advance ex1" />
     <MESSAGE value="advance ex2" />
     <MESSAGE value="advance ex6" />
-    <option name="LAST_COMMIT_MESSAGE" value="advance ex6" />
+    <MESSAGE value="advance ex9" />
+    <option name="LAST_COMMIT_MESSAGE" value="advance ex9" />
   </component>
 </project>
