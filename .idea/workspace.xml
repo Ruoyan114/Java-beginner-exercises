@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="advance ex12">
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise12/GenericStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise13/GenericSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise14/GenericChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise14/GenericChildWithOwnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise14/GenericInheritanceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise14/GenericParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise15/GenericWildcardExample.java" afterDir="false" />
+    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="advance ex15">
+      <change afterPath="$PROJECT_DIR$/src/hw/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ThreadMethod01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ThreadMethod02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ThreadMethod03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ThreadMethodExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/ThreadState_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syn/DeadLock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ticket/SellTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/syn/SellTicket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -115,7 +118,7 @@
       <workItem from="1714621526792" duration="3548000" />
       <workItem from="1714882050044" duration="2242000" />
       <workItem from="1714932629751" duration="25671000" />
-      <workItem from="1715319671646" duration="8699000" />
+      <workItem from="1715319671646" duration="23964000" />
     </task>
     <task id="LOCAL-00001" summary="exercise01">
       <option name="closed" value="true" />
@@ -189,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715576117205</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="advance ex15">
+      <option name="closed" value="true" />
+      <created>1715635873728</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715635873728</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +215,7 @@
     <MESSAGE value="advance ex6" />
     <MESSAGE value="advance ex9" />
     <MESSAGE value="advance ex12" />
-    <option name="LAST_COMMIT_MESSAGE" value="advance ex12" />
+    <MESSAGE value="advance ex15" />
+    <option name="LAST_COMMIT_MESSAGE" value="advance ex15" />
   </component>
 </project>
