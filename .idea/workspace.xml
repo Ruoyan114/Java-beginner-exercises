@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="advanced 17">
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise18/ConcurrentModificationExampleWithCopyOnWriteArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise18/ConcurrentModificationExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise19/EnumSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise20/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise20/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise20/TestRunner.java" afterDir="false" />
+    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="advanced 20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise17/MultiThreadExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_exercise17/MultiThreadExceptionHandling.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +25,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ruoyan114&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="baf9dade-bed6-4ba3-8116-a934a8e80952" />
+        <option name="url" value="https://github.com/Ruoyan114/Java-beginner-exercises.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -168,7 +175,8 @@
       <workItem from="1714882050044" duration="2242000" />
       <workItem from="1714932629751" duration="25671000" />
       <workItem from="1715319671646" duration="25006000" />
-      <workItem from="1715887212088" duration="9988000" />
+      <workItem from="1715887212088" duration="10996000" />
+      <workItem from="1715906694558" duration="185000" />
     </task>
     <task id="LOCAL-00001" summary="exercise01">
       <option name="closed" value="true" />
@@ -274,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715890561555</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="advanced 20">
+      <option name="closed" value="true" />
+      <created>1715905807615</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715905807615</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +308,7 @@
     <MESSAGE value="advance ex15" />
     <MESSAGE value="hsp 599" />
     <MESSAGE value="advanced 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="advanced 17" />
+    <MESSAGE value="advanced 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="advanced 20" />
   </component>
 </project>
