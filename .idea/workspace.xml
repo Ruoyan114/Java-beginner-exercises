@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="hsp 599">
-      <change afterPath="$PROJECT_DIR$/src/file/FileCreate.java" afterDir="false" />
+    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="advanced 17">
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise18/ConcurrentModificationExampleWithCopyOnWriteArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise18/ConcurrentModificationExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise19/EnumSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise20/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise20/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_java_exercise20/TestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise17/MultiThreadExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_exercise17/MultiThreadExceptionHandling.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +22,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
-        <option value="AnnotationType" />
         <option value="package-info" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -73,7 +79,7 @@
       <recent name="$PROJECT_DIR$/out" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FileCreate.create03">
+  <component name="RunManager">
     <configuration name="FileCreate.create01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_beginner_exercises" />
       <extension name="coverage">
@@ -162,7 +168,7 @@
       <workItem from="1714882050044" duration="2242000" />
       <workItem from="1714932629751" duration="25671000" />
       <workItem from="1715319671646" duration="25006000" />
-      <workItem from="1715887212088" duration="910000" />
+      <workItem from="1715887212088" duration="9988000" />
     </task>
     <task id="LOCAL-00001" summary="exercise01">
       <option name="closed" value="true" />
@@ -252,7 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715736090613</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="advanced 17">
+      <option name="closed" value="true" />
+      <created>1715890424520</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715890424520</updated>
+    </task>
+    <task id="LOCAL-00013" summary="advanced 17">
+      <option name="closed" value="true" />
+      <created>1715890561555</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715890561555</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +291,7 @@
     <MESSAGE value="advance ex12" />
     <MESSAGE value="advance ex15" />
     <MESSAGE value="hsp 599" />
-    <option name="LAST_COMMIT_MESSAGE" value="hsp 599" />
+    <MESSAGE value="advanced 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="advanced 17" />
   </component>
 </project>
