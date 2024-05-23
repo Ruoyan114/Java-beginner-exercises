@@ -1,4 +1,4 @@
-package operation_system_exercise03;
+package operation_system_ex03;
 
 import java.util.concurrent.Semaphore;
 

@@ -1,4 +1,4 @@
-package operation_system_exercise05;
+package operation_system_ex05;
 /*
 然后，我们可以创建一些线程来模拟进程，这些线程会尝试获取资源：
  */

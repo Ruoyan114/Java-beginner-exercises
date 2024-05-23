@@ -1,4 +1,4 @@
-package operation_system_exercise05;
+package operation_system_ex05;
 /*
 最后，我们创建一个主类来启动这些线程：
  */

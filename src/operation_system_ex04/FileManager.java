@@ -1,4 +1,4 @@
-package operation_system_exercise04;
+package operation_system_ex04;
 /*
 接下来，我们定义一个FileManager类来管理文件系统的操作，并使用synchronized关键字来确保线程安全：
  */

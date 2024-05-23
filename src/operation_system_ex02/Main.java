@@ -1,4 +1,4 @@
-package operation_system_exercise02;
+package operation_system_ex02;
 /*
 设计一个模拟的内存管理系统需要处理几个关键概念：内存分配、内存回收和页面置换算法。下面是一个简化的Java实现，
 其中我们假设有一个固定大小的内存空间，并且使用最近最少使用（LRU）页面置换算法。
