@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="advanced 20">
-      <change afterPath="$PROJECT_DIR$/src/operation_system_exercise01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation_system_exercise02/Main.java" afterDir="false" />
+    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="os -ex02">
+      <change afterPath="$PROJECT_DIR$/src/operation_system_exercise03/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operation_system_exercise04/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operation_system_exercise04/FileSystemFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operation_system_exercise05/DeadlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operation_system_exercise05/Process.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operation_system_exercise05/Resource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operation_system_exercise01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation_system_exercise01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operation_system_exercise02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation_system_exercise02/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +186,7 @@
       <workItem from="1715887212088" duration="10996000" />
       <workItem from="1715906694558" duration="185000" />
       <workItem from="1715906886773" duration="427000" />
-      <workItem from="1716241263185" duration="6405000" />
+      <workItem from="1716241263185" duration="19305000" />
     </task>
     <task id="LOCAL-00001" summary="exercise01">
       <option name="closed" value="true" />
@@ -302,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715907210668</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="os -ex02">
+      <option name="closed" value="true" />
+      <created>1716316361592</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716316361592</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +335,7 @@
     <MESSAGE value="hsp 599" />
     <MESSAGE value="advanced 17" />
     <MESSAGE value="advanced 20" />
-    <option name="LAST_COMMIT_MESSAGE" value="advanced 20" />
+    <MESSAGE value="os -ex02" />
+    <option name="LAST_COMMIT_MESSAGE" value="os -ex02" />
   </component>
 </project>

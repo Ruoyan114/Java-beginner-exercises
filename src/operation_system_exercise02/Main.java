@@ -1,5 +1,4 @@
 package operation_system_exercise02;
-
 /*
 设计一个模拟的内存管理系统需要处理几个关键概念：内存分配、内存回收和页面置换算法。下面是一个简化的Java实现，
 其中我们假设有一个固定大小的内存空间，并且使用最近最少使用（LRU）页面置换算法。
@@ -18,9 +17,9 @@ class MemoryBlock {
 }
 
 class MemoryManager {
-    private List<MemoryBlock> memory;
-    private Map<Integer, Integer> processToMemoryMap;
-    private LinkedHashMap<Integer, Long> lruCache;
+    private List<MemoryBlock> memory; // 用于存储内存块的列表
+    private Map<Integer, Integer> processToMemoryMap; // 映射进程ID到内存地址
+    private LinkedHashMap<Integer, Long> lruCache; // 用于实现LRU（最近最少使用）页面置换算法的缓存
 
     public MemoryManager(int memorySize) {
         this.memory = new ArrayList<>();

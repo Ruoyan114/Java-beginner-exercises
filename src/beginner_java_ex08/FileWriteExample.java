@@ -1,4 +1,4 @@
-package beginner_java_exercise08;
+package beginner_java_ex08;
 
 // 接下来是写入文件内容的例子：
 

@@ -1,5 +1,4 @@
-package operation_system_exercise01;
-
+package operation_system_ex01;
 /*
 在真实世界的操作系统中，进程调度是一个复杂的任务，涉及到许多硬件和软件层面的细节。然而，我们可以用Java来模拟一个简化的进程调度器，
 该调度器能够按照优先级来调度进程。以下是一个简化的例子：
