@@ -4,71 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="os -ex06">
-      <change afterPath="$PROJECT_DIR$/src/operation_system_ex06/DecrementTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation_system_ex06/IncrementTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation_system_ex06/MultithreadingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation_system_ex06/SharedResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation_system_ex07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation_system_ex08/SimpleDeviceDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation_system_ex09/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation_system_ex09/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation_system_ex10/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation_system_ex10/JobScheduler.java" afterDir="false" />
+    <list default="true" id="5ae79751-11bf-41b5-846c-71574e3a502e" name="Changes" comment="os -ex10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise01/TimerHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex01/TimerHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise02/OuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex02/OuterClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise03/OuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex03/OuterClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise04/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex04/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise05/SimpleStateMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex05/SimpleStateMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise05/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex05/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise06/Loggable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex06/Loggable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise06/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex06/MyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise07/AnnotationExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex07/AnnotationExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise07/Execute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex07/Execute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise07/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex07/MyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise08/DivideByZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex08/DivideByZeroException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise08/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex08/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex08/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise09/InvalidOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex09/InvalidOperationException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise09/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex09/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex10/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise10/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex10/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise11/HashSetTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex11/HashSetTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise12/GenericStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex12/GenericStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise12/GenericStackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex12/GenericStackDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise13/GenericSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex13/GenericSwap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise14/GenericChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex14/GenericChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise14/GenericChildWithOwnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex14/GenericChildWithOwnType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise14/GenericInheritanceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex14/GenericInheritanceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise14/GenericParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex14/GenericParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise15/GenericWildcardExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex15/GenericWildcardExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise16/ExceptionChainDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex16/ExceptionChainDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise17/CustomThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex17/CustomThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise17/MultiThreadExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex17/MultiThreadExceptionHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise18/ConcurrentModificationExampleWithCopyOnWriteArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex18/ConcurrentModificationExampleWithCopyOnWriteArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise18/ConcurrentModificationExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex18/ConcurrentModificationExceptionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise19/EnumSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex19/EnumSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise20/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex20/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise20/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex20/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced_java_exercise20/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced_java_ex20/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex01/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise02/VariableTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex02/VariableTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise03/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex03/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise03/OddOrEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex03/OddOrEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise03/SwitchStatementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex03/SwitchStatementExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise04/SumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex04/SumExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise05/ArrayExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex05/ArrayExample01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise05/ArrayExample02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex05/ArrayExample02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise05/ArrayExample03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex05/ArrayExample03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise05/StringExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex05/StringExample01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise05/StringExample02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex05/StringExample02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise05/StringExample03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex05/StringExample03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise05/StringExample04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex05/StringExample04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise05/StringExample05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex05/StringExample05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex06/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise06/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex06/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner_java_exercise07/ExceptionHandlingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner_java_ex07/ExceptionHandlingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operation_system_ex09/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation_system_ex09/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operation_system_ex10/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation_system_ex10/Job.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operation_system_ex10/JobScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation_system_ex10/JobScheduler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +182,8 @@
       <workItem from="1715906694558" duration="185000" />
       <workItem from="1715906886773" duration="427000" />
       <workItem from="1716241263185" duration="31263000" />
-      <workItem from="1716583851485" duration="7195000" />
+      <workItem from="1716583851485" duration="8494000" />
+      <workItem from="1716691492788" duration="5079000" />
     </task>
     <task id="LOCAL-00001" summary="exercise01">
       <option name="closed" value="true" />
@@ -388,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716491340457</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="os -ex10">
+      <option name="closed" value="true" />
+      <created>1716611476971</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1716611476971</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +359,8 @@
     <MESSAGE value="os -ex02" />
     <MESSAGE value="os -ex05" />
     <MESSAGE value="os -ex06" />
-    <option name="LAST_COMMIT_MESSAGE" value="os -ex06" />
+    <MESSAGE value="os -ex10" />
+    <option name="LAST_COMMIT_MESSAGE" value="os -ex10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

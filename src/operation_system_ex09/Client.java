@@ -3,6 +3,9 @@ package operation_system_ex09;
 客户端进程（Client.java）:
  */
 import java.io.*;
+import java.net.Socket;
+
+import java.io.*;
 import java.net.*;
 
 public class Client {
@@ -21,6 +24,7 @@ public class Client {
         socket.close();
     }
 }
+
 
 /*
 首先运行服务器进程，然后运行客户端进程。你会看到服务器接收到客户端发送的消息，并打印出来。

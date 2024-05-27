@@ -1,4 +1,7 @@
 package operation_system_ex10;
+
+import operation_system_ex10.Job;
+
 import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.Comparator;
@@ -8,7 +11,7 @@ public class JobScheduler {
     private long currentTime;
 
     public JobScheduler() {
-        this.readyQueue = new PriorityQueue<>(Comparator.comparingInt(Job::getPriority).reversed()); // ClassName::methodName
+        this.readyQueue = new PriorityQueue<>(Comparator.comparingInt(Job::getPriority).reversed());
         this.currentTime = 0;
     }
 
@@ -36,7 +39,7 @@ public class JobScheduler {
 
             // 模拟作业执行时间
             try {
-                Thread.sleep(currentJob.getExecutionTime()); // 模拟作业的执行时间
+                Thread.sleep(currentJob.getExecutionTime());
                 currentTime += currentJob.getExecutionTime();
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();

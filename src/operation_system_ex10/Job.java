@@ -51,7 +51,11 @@ public class Job {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Job job = (Job) o;
-        return priority == job.priority && executionTime == job.executionTime && arrivalTime == job.arrivalTime && waitTime == job.waitTime && Objects.equals(id, job.id);
+        return priority == job.priority &&
+                executionTime == job.executionTime &&
+                arrivalTime == job.arrivalTime &&
+                waitTime == job.waitTime &&
+                Objects.equals(id, job.id);
     }
 
     @Override
